@@ -158,7 +158,7 @@
       <samp>
         ♡ 
         <a href="#">notion</a> ⊹
-        <a href="#">linktr.ee</a> ⊹
+        <a href="https://linktr.ee/paollafer">linktr.ee</a> ⊹
         <a href="#">carrd.co</a> 
         ♡
       </samp>
