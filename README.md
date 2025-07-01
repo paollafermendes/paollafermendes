@@ -66,7 +66,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=paollafermendes&theme=tokyonight&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=paollafermendes&theme=tokyonight&hide_border=true&card_width=885"
   />
 
 ##
